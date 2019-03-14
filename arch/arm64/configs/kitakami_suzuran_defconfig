@@ -652,3 +652,6 @@ CONFIG_STRICT_MEMORY_RWX=y
 
 # Voltage control support
 CONFIG_CPU_VOLTAGE_CONTROL=y
+
+# Qnovo battery charger driver
+CONFIG_QNS_SYSTEM=y
