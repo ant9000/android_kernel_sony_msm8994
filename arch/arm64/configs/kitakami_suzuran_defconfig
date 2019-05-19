@@ -655,3 +655,6 @@ CONFIG_CPU_VOLTAGE_CONTROL=y
 
 # Qnovo battery charger driver
 CONFIG_QNS_SYSTEM=y
+
+# Enable F2FS support
+CONFIG_F2FS_FS=y
